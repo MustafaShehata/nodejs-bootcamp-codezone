@@ -1,3 +1,1 @@
-session_03/node_modules
-session_04/node_modules
-session_05/node_modules
+**/node_modules/
