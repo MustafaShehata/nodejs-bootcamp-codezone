@@ -1,0 +1,4 @@
+Async vs. Sync in NodeJs:
+https://medium.com/linkit-intecs/what-is-synchronous-vs-asynchronous-in-node-js-4b45ee668e6f
+
+
